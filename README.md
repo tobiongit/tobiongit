@@ -1,3 +1,4 @@
-# My first test project.
+# My first git repository 
 
-This is my first git repo! :)
+Hello World! 
+This is my first git repo :)
